@@ -6,6 +6,7 @@ html {
 #flexContainer {
   display: flex;
   flex-direction: column;
+  padding-top: 2rem;
 }
 
 #divContainer {
